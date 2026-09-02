@@ -2,6 +2,11 @@ img {
     width: unset;
     height:300px;
 }
+.game-covers{
+    width: unset;
+    height: 50%;
+}
+
 .footnote {
     color: rgb(255, 0, 0);
     font-size: small;
