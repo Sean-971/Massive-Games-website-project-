@@ -31,10 +31,10 @@ body{
 }
 
 nav {
-    background-color:rgb(255, 255, 255); 
+    background-color:rgb(255, 252, 252); 
     font-size: medium;
     padding: 5px;
-    border: 3px solid rgb(255, 0, 0);
+    border: 3px solid black;
     margin: 10px 0 10px 0;
     
 }
@@ -45,9 +45,33 @@ nav a {
 }
 
 a:hover {
-    color: peru;
-    text-decoration-line:underline;
+color: peru;
+text-decoration-line:underline;
 }
 a:visited {
-    color:darkred;
+    color:rgb(79, 79, 228);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #faf8f8;
+  
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #6b6b6b;
 }
