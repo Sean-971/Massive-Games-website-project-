@@ -51,7 +51,7 @@ ul {
   position: fixed;
   top: 0;
   width: 100%;
-  
+  opacity: 100%;
 }
 
 ul li {
@@ -64,4 +64,7 @@ ul li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+}
+ul li a:hover {
+  background-color: #882626;
 }
