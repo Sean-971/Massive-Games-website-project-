@@ -1,0 +1,41 @@
+# Website copy
+
+## Homepage
+
+Massive Games is a creative community of artists and game makers located in Mildura, Victoria, Australia. 
+
+## About
+
+Massive Games started as a group of independent artists, writers, and game developers looking for a shared place to create and collaborate. In early 2013, our not-for-profit studio and collective was founded.
+
+We're multi-disciplined with skills in multiple fields. Our projects are run independently, but may involve multiple members working together.
+
+Over time, we've grown into an event and community hub for the indie games community in the Mallee region of Australia.
+
+
+## Games
+
+### Colony
+Welcome to Colony, an insect world of interconnected colonies of bees, ants, wasps and dragon-flies. Your goal is to ensure the survival of your species against a range of challenges that include other insect species, hungry anteaters, disastrous weather events and encroaching habitat loss.
+
+### 2222
+2222 is a dystopian adventure set two hundred years into the future. The world speaks a single language and is ruled by a single totalitarian government which maintains absolute power using a cloned humanoid army controlled by a global satellite system. The satellites also stream government propaganda constantly through the personal devices that citizens must carry with them at all times. Your task is to build a network of allies and, using a range of skills including hacking and coding, to shut the satellites down.
+
+### Time Machine
+Time Machine is a steampunk-inspired game in which you travel through time on the trail of a network of elusive and secretive villains who communicate via mental telepathy and enigmatic messages encoded into books, paintings, music and films.
+
+
+## Contact
+
+Email: info@massivegames.com.au
+
+Street: Shop 7, Langtree Mall, Mildura VIC Australia 3500
+
+
+
+## Image credits
+
+* Game1 https://creativecommons.org/licenses/by-nc-sa/2.0/
+* Game2 https://commons.wikimedia.org/wiki/File:Steampunk_transformer_helmet.jpg
+* Game3 https://freesvg.org/johnny-automatic-ant
+
