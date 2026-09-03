@@ -38,6 +38,9 @@ header { color:#662222;
     padding: 10px;
 
 }
+div{
+    margin: bottom 10px; ;
+}
 footer {
   position: fixed;
   bottom: 0;
