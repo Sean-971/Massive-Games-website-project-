@@ -87,14 +87,14 @@ ul.topnav li a:hover {
   background-color: #dddddd;
   color: black;
 }
-div.flex-container {
+/*div.flex-container {
   display: flex;
   flex-direction: row;
 }
 
 div.flex-container > div {
   margin: 10px;
-}
+}*/
 nav a {
     color: white;
     text-decoration-line: none;
