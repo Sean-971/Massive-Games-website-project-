@@ -1,7 +1,4 @@
-img {
-    width: unset;
-    height:300px;
-}
+
 .game-covers{
     width:10%;
     height: 10%;
@@ -47,17 +44,6 @@ h2 {
     font-size:150%;
     font-family:"Lucida Console", "Courier New", monospace;
 }
-button{
-    color: #662222;
-    border: none;
-    text-align: center;
-    text-decoration: none;
-    display: inline-block;
-    font-size: medium;
-    margin: 4px 2px;
-    cursor: pointer;
-    padding: 15px 32px;
-}
 body{
     background-color: rgb(0, 0, 0);
     font-size: medium;
@@ -68,7 +54,7 @@ ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #333333;}
+  background-color: #000000;}
 ul.topnav li a {
   display: block;
   color: #f1f1f1;
@@ -99,18 +85,6 @@ text-decoration-line:underline;
 a:visited {
     color:rgb(79, 79, 228);
 }
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #faf8f894;
-  position: fixed;
-  top: 0;
-  width: 100%;
-  opacity: 100%;
-}
-
 ul li {
   float: left;
 }
