@@ -3,10 +3,14 @@ img {
     height:300px;
 }
 .game-covers{
-    width: unset;
-    height: 50%;
+    width:25%;
+    height: 25%;
 }
-
+.middle-text {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    text-align: center;
+}
 .footnote {
     color: rgb(255, 0, 0);
     font-size: small;
