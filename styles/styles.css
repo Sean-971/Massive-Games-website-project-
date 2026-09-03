@@ -1,8 +1,9 @@
 * {box-sizing: border-box;}
 .game-covers{
-    width:10%;
-    height: 10%;
+    width:20%;
+    height: 20%;
     float: left;
+    margin: 10px;
 }
 .middle-text {
     font-family: 'Courier New', Courier, monospace;
