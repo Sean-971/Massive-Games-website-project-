@@ -10,6 +10,10 @@
     font-size: medium;
     text-align: center;
 }
+.game-discription{
+    align-content: center;
+    content: 200px;
+}
 .footnote {
     color: rgb(255, 0, 0);
     font-size: small;
