@@ -5,7 +5,8 @@
     float: left;
     margin: 10px;
 }
-#massive-logo {size: 10%;
+#massive-logo {width: auto;
+    height: auto;
 }
 .middle-text {
     font-family: 'Courier New', Courier, monospace;
