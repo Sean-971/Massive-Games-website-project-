@@ -1,13 +1,13 @@
 * {box-sizing: border-box;}
 .game-covers{
-    width:20%;
-    height: 20%;
+    max-width:50%;
+    max-height: 50%;
     float: left;
-    margin: 10px;
+    
 }
 #massive-logo { 
-    width: 10%;
-    height: 10%;
+    max-width: 10%;
+    max-height: 10%;
     float: left;
 }
 .flex-container {
