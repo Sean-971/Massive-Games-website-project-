@@ -2,6 +2,7 @@
 .game-covers{
     width:10%;
     height: 10%;
+    float: left;
 }
 .middle-text {
     font-family: 'Courier New', Courier, monospace;
@@ -26,6 +27,8 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
+  border-top-color: gray;
+  border-top: 20px;
   background-color: #662222;
   padding: 8px;
   text-align: center;
