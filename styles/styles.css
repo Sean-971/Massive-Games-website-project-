@@ -35,9 +35,10 @@
 .content {
     color: gold;
 }
-header { color:#662222;
-    padding: 10px;
-
+header { 
+  color:#662222;
+  padding: 10px;
+  position:fixed;
 }
 div{
     margin: bottom 30px;
@@ -51,7 +52,7 @@ footer {
   border: 30px 0px 0px 0px;  background-color: #662222;
   text-align: center;
   z-index: 1000;
-  margin-top: 100px;
+  margin-top: 10px;
 }
 p {
     font-size:100%;
@@ -72,6 +73,7 @@ body{
     color: #dddddd;
     margin-top: 0;
     margin-left: 0;
+    margin-right: 0;
     max-width: fit-content;
     max-height: fit-content;
 }
@@ -127,7 +129,7 @@ ul li a:hover {
     border: none;
     text-align: center;
     background-color: #0f273f ;   
-    width: 1500px;
+    max-width: fit-content;
     
     margin: 30px 30px 50px 0px;
     padding: 30px 30px 30px 0px;
