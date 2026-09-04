@@ -67,7 +67,7 @@ h2 {
     font-family:"Lucida Console", "Courier New", monospace;
 }
 body{
-    background-color: rgb(0, 0, 0);
+    background-color: #0f273f;
     font-size: medium;
     color: #dddddd;
 }
@@ -76,7 +76,7 @@ ul.topnav {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  background-color: #000000;}
+  background-color: #662222;}
 ul.topnav li a {
   display: block;
   color: #f1f1f1;
@@ -124,9 +124,9 @@ ul li a:hover {
 .game-poster{
     border: none;
     text-align: center;
-    background-color: black ;   
-    width: 500;
-    height: 200;
+    background-color: #0f273f ;   
+    width: 1500px;
+    
     margin: 30px 30px 50px 0px;
     padding: 30px 30px 30px 0px;
 }
