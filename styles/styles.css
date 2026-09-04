@@ -6,6 +6,11 @@
   float: left;
     
 }
+#masive-logo-front-page{ 
+  max-width: 20%;
+  max-height: 20%;
+  float: center ;
+}
 #massive-logo { 
     max-width: 10%;
     max-height: 10%;
