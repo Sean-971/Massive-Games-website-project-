@@ -7,14 +7,13 @@
     
 }
 #masive-logo-front-page{ 
-  max-width: 20%;
-  max-height: 20%;
-  float: center ;
+  max-width: 10%;
+  max-height: 10%;
+  
 }
 #massive-logo { 
     max-width: 10%;
-    max-height: 10%;
-    float: left;
+    max-height: 10%;   
 }
 .flex-container {
   display: flex;
@@ -44,6 +43,9 @@ header {
   color:#662222;
   padding: 10px;
   position:fixed;
+  display: flex;
+  justify-content: center;
+  align-items: center
 }
 div{
     margin: bottom 30px;
