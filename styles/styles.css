@@ -1,8 +1,11 @@
 * {box-sizing: border-box;}
 .game-covers{
-    max-width:30%;
-    max-height: 30%;
-    float: left;
+  min-width: 10%;
+  max-width:25%;
+  min-height: 10%;
+  max-height: 25%;
+  padding-right: 4px;
+  float: left;
     
 }
 #massive-logo { 
