@@ -15,6 +15,10 @@
     max-width: 10%;
     max-height: 10%;   
 }
+#game-preview{
+  padding: 3px;
+  
+}
 .flex-container {
   display: flex;
   justify-content: center; /* Horizontally centers the text box */
@@ -42,13 +46,7 @@
 header { 
   color:#662222;
   padding: 10px;
-  position:fixed;
-  display: flex;
-  justify-content: center;
-  align-items: center
-}
-div{
-    margin: bottom 30px;
+  position:fixed; 
 }
 footer {
   position: fixed;
@@ -94,8 +92,8 @@ body{
 ul.topnav {
   display: flex;
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 5px;
+  padding: 0px;
   background-color: #662222;}
 ul.topnav li a {
   display: block;
