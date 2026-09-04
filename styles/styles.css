@@ -6,19 +6,13 @@
   float: left;
     
 }
-#massive-logo-front-page{ 
-  max-width: 10%;
-  max-height: 10%;
-  
-}
+
 #massive-logo { 
     max-width: 10%;
-    max-height: 10%;   
+    max-height: 10%;
+    position: fixed;   
 }
-#game-preview{
-  padding: 3px;
-  
-}
+
 .flex-container {
   display: flex;
   justify-content: center; /* Horizontally centers the text box */
@@ -46,7 +40,8 @@
 header { 
   color:#662222;
   padding: 10px;
-  position:fixed; 
+  position: fixed;
+   
 }
 footer {
   position: fixed;
@@ -78,16 +73,9 @@ body{
     color: #dddddd;    
     max-width: fit-content;
     max-height: fit-content;
-}
-.product-body{
-    background-color: #0f273f;
-    font-size: medium;
-    color: #dddddd;
-    margin-top: 0;
-    margin-left: 0;
-    margin-right: 0;
-    max-width: fit-content;
-    max-height: fit-content;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
 }
 ul.topnav {
   display: flex;
