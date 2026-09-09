@@ -1,18 +1,18 @@
-* {box-sizing: border-box;}
+* {
+  box-sizing: border-box;
+}
 .game-covers{
-  max-width:25%;
+  /*max-width:25%;
   max-height: 25%;
   padding-right: 4px;
-  float: left;
-    
+  float: left;*/
+    width: 60%;
 }
-
 #massive-logo { 
     max-width: 10%;
-    max-height: 10%;
-    position: fixed;   
+    position: fixed; 
+    float: left;    
 }
-
 .flex-container {
   display: flex;
   justify-content: center; /* Horizontally centers the text box */
@@ -37,21 +37,13 @@
 .content {
     color: gold;
 }
-header { 
-  color:#662222;
-  padding: 10px;
-  position: fixed;
-   
-}
 footer {
   position: fixed;
   bottom: 0;
   left: 0;
   width: 100%;
-  border-top-color: gray;
   border: 30px 0px 0px 0px;  background-color: #662222;
-  text-align: center;
-  z-index: 1000;
+   
   margin-top: 10px;
 }
 p {
@@ -59,13 +51,24 @@ p {
     font-family:verdana;
     color: azure;
 }
- h1{
+ header h1{
     color: red;
     text-align: center;
+    float: left;
+    width: 50%;
  }
+#left, #right {
+  float: left; 
+  width: 30%;
+}
+#middle {
+  float: left; 
+  width: 40%;
+}
 h2 {
     font-size:150%;
     font-family:"Lucida Console", "Courier New", monospace;
+    text-align: center;
 }
 body{
     background-color: #0f273f;
@@ -77,30 +80,23 @@ body{
     margin-top: 0px;
     margin-bottom: 0px;
 }
-ul.topnav {
+nav.topnav {
   display: flex;
-  list-style-type: none;
-  margin: 5px;
-  padding: 0px;
-  background-color: #662222;}
-ul.topnav li a {
+  float: left;
+  background-color: #662222;
+  width: 30%;
+  position: relative;
+}
+nav.topnav a {
   display: block;
   color: #f1f1f1;
   padding: 14px 16px;
   text-decoration: none;
 }
-ul.topnav li a:hover {
+nav.topnav a:hover {
   background-color: #dddddd;
   color: black;
 }
-/*div.flex-container {
-  display: flex;
-  flex-direction: row;
-}
-
-div.flex-container > div {
-  margin: 10px;
-}*/
 nav a {
     color: white;
     text-decoration-line: none;
@@ -112,17 +108,17 @@ text-decoration-line:underline;
 a:visited {
     color:rgb(79, 79, 228);
 }
-ul li {
+ul {
   float: left;
 }
-ul li a {
+ul a {
   display: block;
   color: white;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
 }
-ul li a:hover {
+ul a:hover {
   background-color: #882626;
 }
 .game-poster{
@@ -131,6 +127,40 @@ ul li a:hover {
     background-color: #0f273f ;   
     max-width: fit-content;
     
+    margin: 30px 30px 50px 0px;
+    padding: 30px 30px 30px 0px;
+}
+
+@media screen and (max-width: 620px) {
+
+   #index-page {
+    float: none;
+    width: 37%;
+    /*width: fit-content;*/
+    position: relative;
+    top: 150px;
+    left: 140px
+
+  }
+  #massive-logo {
+    display: none;
+  }
+ #products-page-header  {
+    padding: 10px;
+ }
+ #products-page, #contacts-page {
+    width: 100%;
+    margin: 0%;
+ }
+  #left, #right {
+    display: none;
+  }
+
+  header h1, #middle {
+    width: 100%;
+    padding: 10px;
+  }
+}
     margin: 30px 30px 50px 0px;
     padding: 30px 30px 30px 0px;
 }
