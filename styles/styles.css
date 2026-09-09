@@ -29,8 +29,7 @@
     text-align: center;
 }
 .game-discription{
-    align-content: center;
-    content: 200px;
+    align-content: center;   
 }
 .footnote {
     color: rgb(245, 241, 241);
@@ -46,8 +45,7 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  border: 30px 0px 0px 0px;  background-color: #662222;
-   
+  background-color: #662222; 
   margin-top: 10px;
 }
 p {
