@@ -8,6 +8,10 @@
   float: left;*/
     width: 60%;
 }
+#game-titles{ font-size:150%;
+    font-family:"Lucida Console", "Courier New", monospace;
+    text-align: center;
+}
 #massive-logo { 
     max-width: 10%;
     position: fixed; 
